@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaeduriem.clqr.boundp.org/sitemap.xml
